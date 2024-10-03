@@ -94,7 +94,6 @@ document.addEventListener('DOMContentLoaded', function() {
 - [ ] Создать свой первый веб-сайт
 ***
 ## Ссылки
-[***JavaScript***](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)
-[***CSS***](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[***HTML***](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
-
+[***JavaScript***](https://learn.javascript.ru/?ysclid=m1rzgxjl32521824358)  
+[***CSS***](https://developer.mozilla.org/en-US/docs/Web/CSS)  
+[***HTML***](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)  
